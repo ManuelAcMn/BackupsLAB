@@ -1,0 +1,3 @@
+  * * * * *  sh /vagrant/totales.sh /var/www/html
+  * * * * *  sh /vagrant/diferencial.sh /var/www/html
+  * * * * *  sh /vagrant/incremental.sh /var/www/html
